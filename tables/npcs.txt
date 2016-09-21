@@ -1,0 +1,11 @@
+prontera 105 87 Gift Merchant
+prontera 123 102 Merchant#pron
+prontera 144 103  ไอเทมสะดวกใช้ 
+prontera 146 103 Suhnbi
+prontera 146 89 Kafra Staff
+geffen 132 38 Bard#2
+geffen 119 48 Fountain#s
+geffen 111 48  ผู้หญิง  
+geffen 103 42 Sponiac#09tuto_rhea02
+geffen 108 64  ไอเทมพิเศษ 
+geffen 67 87 Ayeepu

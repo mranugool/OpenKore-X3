@@ -1,0 +1,7 @@
+autoload.pl
+compile.bat
+compile-wx.bat
+Do_Not_Compile_OpenKore.txt
+dos2unix.pl
+openkore.ico
+unix2dos.pl

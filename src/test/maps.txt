@@ -1,0 +1,4 @@
+prontera.rsw#Prontera City#
+unreachable.rsw#Unreachable Location#
+aretnorp.rsw#Aretnorp Dungeon#
+alberta.rsw#Alberta City#
