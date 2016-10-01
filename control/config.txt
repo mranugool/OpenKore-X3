@@ -5,7 +5,7 @@
 ######## 0 Iris / 1 Chaos / 2 Odin / 3 Loki / 4 Thor ######
 
 master Thailand - tRO (EXE)
-server
+server 0
 username
 password
 loginPinCode
